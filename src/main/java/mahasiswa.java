@@ -21,6 +21,7 @@ public class mahasiswa {
     }
 
     public void setNim(String Nim_1302190016) {
+        
         this.Nim_1302190016 = Nim_1302190016;
         //        Merupakan Setter dari Nim
     }
